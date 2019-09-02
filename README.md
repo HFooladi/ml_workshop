@@ -2,7 +2,7 @@
 
 In this repository, I am going to provide resources and materials in the machine learning workshop series that I am going to organize.
 The topic and format of each session is not fixed and the format can be different in each session. You can find some of the topics and formats
-that I have mind in the following list, but this list is not exhaustive and other formats can be added to this list. 
+that I have in mind in the following list, but this list is not exhaustive and other formats can be added to this list. 
 
 - Reading a paper carefully and discussing about it.
 

@@ -35,4 +35,24 @@ You can find the pdf file in the Topics folder.
 - Tag : Reading a paper and discussion about it. 
 - Main paper: [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
 
+### Week 2
+- Main topic: Lottery ticket hypothesis
+- Tag : Reading a paper and discussion about it. 
+- Main paper: [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
+
+
+### Week 3
+- Main topic: Computational learning theory (PAC Learning)
+- Tag : Reading a theoretical topic (book chapter) and discussion about it. 
+- Main reference: Chapter 2 of [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
+
+### Week 4
+- Main topic: Causality (Part 1)
+- Tag : Introdoction to causality and its importance in decision and policy making. 
+- Main reference: I have covered some chapters of [Causality: Models, Reasoning and Inference: Judea Pearl](https://www.amazon.com/Causality-Reasoning-Inference-Judea-Pearl/dp/052189560X) book. You can refer to the outline of week 4 to know what topics I have covered in details. 
+
+### Week 5
+- Main topic: Causality (Part 2)
+- Tag : Structural equations models and counterfactuals. 
+- Main reference: I have covered some chapters of [Causality: Models, Reasoning and Inference: Judea Pearl](https://www.amazon.com/Causality-Reasoning-Inference-Judea-Pearl/dp/052189560X) book. You can refer to the outline of week 5 to know what topics I have covered in details. 
 

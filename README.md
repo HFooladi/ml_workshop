@@ -56,3 +56,8 @@ You can find the pdf file in the Topics folder.
 - Tag : Structural equations models and counterfactuals. 
 - Main reference: I have covered some chapters of [Causality: Models, Reasoning and Inference: Judea Pearl](https://www.amazon.com/Causality-Reasoning-Inference-Judea-Pearl/dp/052189560X) book. You can refer to the outline of week 5 to know what topics I have covered in details. 
 
+### Week 6
+- Main topic: Gaussian process
+- Tag : Introduction to gaussian process, gaussian process regression 
+- Main reference: I have used [this](https://www.youtube.com/watch?v=92-98SYOdlY) amazing tutorial from Richard Turner as the main resource for this session. 
+In addition, I think the best resource that covers this topic is "gaussian process for machine learning" book by Rasmussen and Williams. 

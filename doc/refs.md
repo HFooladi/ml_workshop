@@ -78,3 +78,23 @@
 * [Görtler, et al., "A Visual Exploration of Gaussian Processes", Distill ](https://distill.pub/2019/visual-exploration-gaussian-processes)
 
 * ["Deep Gaussian Processes." Damianou, A. and Lawrence, N., 2013. Proceedings of the Sixteenth International Conference on Artificial Intelligence and Statistics](http://proceedings.mlr.press/v31/damianou13a.html)
+
+
+
+<a name="week7"></a>
+## Week 7: Successor Representation in Reinforcement Learning 
+
+### Main References 
+* [Dayan, Peter. "Improving generalization for temporal difference learning: The successor representation."  ](https://www.mitpressjournals.org/doi/abs/10.1162/neco.1993.5.4.613)
+
+* [Gershman, Samuel J. "The successor representation: its computational logic and neural substrates." ](https://www.jneurosci.org/content/38/33/7193)
+
+* [Kulkarni, Tejas D., et al. "Deep successor reinforcement learning."](https://arxiv.org/abs/1606.02396)
+
+* [Barreto, André, et al. "Successor features for transfer in reinforcement learning." ](https://papers.nips.cc/paper/6994-successor-features-for-transfer-in-reinforcement-learning.pdf)
+
+* [The present in terms of the future: Successor representations in Reinforcement learning. Blog post by Arthur Juliani.](https://medium.com/@awjuliani/the-present-in-terms-of-the-future-successor-representations-in-reinforcement-learning-316b78c5fa3)
+
+### Further References
+
+* [Botvinick, Matthew, and Ari Weinstein. "Model-based hierarchical reinforcement learning and human action control."](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2013.0480)

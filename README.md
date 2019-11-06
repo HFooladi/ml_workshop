@@ -62,6 +62,11 @@ You can find the pdf file in the Topics folder.
 - Main reference: I have used [this](https://www.youtube.com/watch?v=92-98SYOdlY) amazing tutorial from Richard Turner as the main resource for this session. 
 In addition, I think the best resource that covers this topic is "gaussian process for machine learning" book by Rasmussen and Williams. 
 
+### Week 7
+- Main topic: Successor Representation in Reinforcement Learning
+- Tag : Introducing successor representation paradigm and how it differs from model-based and model-free in terms of efficiency and flexibility.
+- Main reference: There is a very nice blog [post](https://medium.com/@awjuliani/the-present-in-terms-of-the-future-successor-representations-in-reinforcement-learning-316b78c5fa3) by Arthur Juliani
+
 
 
 ## Lectures
@@ -74,3 +79,4 @@ In addition, I think the best resource that covers this topic is "gaussian proce
 | 4 | 10/3/2019  | Causality (Part 1) [Outline](https://github.com/HFooladi/ml_workshop/blob/master/Topics/04_outline_causality(part1).pdf) |  [References](doc/refs.md#week4)  |
 | 5 | 10/10/2019  | Causality (Part 2) [Outline](https://github.com/HFooladi/ml_workshop/blob/master/Topics/05_outline_causality(part2).pdf) |  [References](doc/refs.md#week5)  |
 | 6 | 10/24/2019  | Gaussian process [Outline](https://github.com/HFooladi/ml_workshop/blob/master/Topics/06_outline_gaussian_process.pdf) |  [References](doc/refs.md#week6)  |
+| 7 | 11/06/2019  | Successor Representation in Reinforcement Learning [Outline](https://github.com/HFooladi/ml_workshop/blob/master/Topics/07_outline_successor_representation.pdf) |  [References](doc/refs.md#week7)  |

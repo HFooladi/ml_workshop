@@ -98,3 +98,23 @@
 ### Further References
 
 * [Botvinick, Matthew, and Ari Weinstein. "Model-based hierarchical reinforcement learning and human action control."](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2013.0480)
+
+
+<a name="week8"></a>
+## Week 8: Distributional Reinforcement Learning 
+
+### Main References 
+* [Bellemare, Marc G., Will Dabney, and Rémi Munos. 2017. “A Distributional Perspective on Reinforcement Learning.”](https://arxiv.org/pdf/1707.06887.pdf)
+
+* [Dabney, W., M. Rowland, M. G. Bellemare, and R. Munos. 2017. “Distributional Reinforcement Learning with Quantile Regression.”](https://arxiv.org/pdf/1710.10044)
+
+* [Mavrin, Borislav, et al. "Distributional Reinforcement Learning for Efficient Exploration." ](http://proceedings.mlr.press/v97/mavrin19a/mavrin19a.pdf)
+
+* [Yang, Derek, et al. "Fully Parameterized Quantile Function for Distributional Reinforcement Learning."](https://papers.nips.cc/paper/8850-fully-parameterized-quantile-function-for-distributional-reinforcement-learning.pdf)
+
+### Further References
+
+* [Going beyond average for reinforcement learning. DeepMind blog post](https://deepmind.com/blog/article/going-beyond-average-reinforcement-learning)
+
+* [Distributional RL: Simple Machine Learning blog post](https://mtomassoli.github.io/2017/12/08/distributional_rl/)
+

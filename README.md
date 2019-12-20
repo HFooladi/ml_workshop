@@ -67,7 +67,12 @@ In addition, I think the best resource that covers this topic is "gaussian proce
 - Tag : Introducing successor representation paradigm and how it differs from model-based and model-free in terms of efficiency and flexibility.
 - Main reference: There is a very nice blog [post](https://medium.com/@awjuliani/the-present-in-terms-of-the-future-successor-representations-in-reinforcement-learning-316b78c5fa3) by Arthur Juliani
 
-
+### Week 8
+- Main topic: Distributional RL
+- Tag : What is the differences between classical RL and distributional RL 
+- Main reference: The main paper that we discuss about is [A Distributional Perspective on Reinforcement Learning](https://deepmind.com/research/publications/distributional-perspective-reinforcement-learning)
+from DeepMind. In this paper they argue for the fundamental importance of the value distribution. Also, there is a good blog [post](https://deepmind.com/blog/article/going-beyond-average-reinforcement-learning) from DeepMind
+, and an in-depth [video](https://www.youtube.com/watch?v=ba_l8IKoMvU) from Marc G. Bellemare.  
 
 ## Lectures
 
@@ -80,3 +85,4 @@ In addition, I think the best resource that covers this topic is "gaussian proce
 | 5 | 10/10/2019  | Causality (Part 2) [Outline](https://github.com/HFooladi/ml_workshop/blob/master/Topics/05_outline_causality(part2).pdf) |  [References](doc/refs.md#week5)  |
 | 6 | 10/24/2019  | Gaussian process [Outline](https://github.com/HFooladi/ml_workshop/blob/master/Topics/06_outline_gaussian_process.pdf) |  [References](doc/refs.md#week6)  |
 | 7 | 11/06/2019  | Successor Representation in Reinforcement Learning [Outline](https://github.com/HFooladi/ml_workshop/blob/master/Topics/07_outline_successor_representation.pdf) |  [References](doc/refs.md#week7)  |
+| 8 | 12/18/2019  | Distributional RL [Outline](https://github.com/HFooladi/ml_workshop/blob/master/Topics/08_outline_distributional_rl.pdf) |  [References](doc/refs.md#week8)  |

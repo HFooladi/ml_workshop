@@ -74,15 +74,22 @@ In addition, I think the best resource that covers this topic is "gaussian proce
 from DeepMind. In this paper they argue for the fundamental importance of the value distribution. Also, there is a good blog [post](https://deepmind.com/blog/article/going-beyond-average-reinforcement-learning) from DeepMind
 , and an in-depth [video](https://www.youtube.com/watch?v=ba_l8IKoMvU) from Marc G. Bellemare.  
 
+### Week 9
+- Main Topic: Bayesian Interpolation
+- Tag: Bayesian inference and bayesian model comparisson. Different levels of bayesian inference.
+- Mian reference: [MacKay, 1992. Bayesian interpolation.](https://authors.library.caltech.edu/13792/1/MACnc92a.pdf) and [
+Probabilistic machine learning and artificial intelligence](https://www.nature.com/articles/nature14541)
+
 ## Lectures
 
-| Week        | Lecture Date           | Topic       |  References                     |
-| ---------------|----------------| ------------|---------------------------|
-| 1 | 9/2/2019  | Knowledge Distillation [Outline](https://github.com/HFooladi/ml_workshop/blob/master/Topics/01_outline_knowledge%20Distillation.pdf) |  [References](doc/refs.md#week1)  |
-| 2 | 9/12/2019  | Lottery ticket hypothesis [Outline](https://github.com/HFooladi/ml_workshop/blob/master/Topics/02_ouline_lottery_ticket_hypothesis.pdf) |  [References](doc/refs.md#week2)  |
-| 3 | 9/26/2019  | Computational learning theory (PAC Learning) [Outline](https://github.com/HFooladi/ml_workshop/blob/master/Topics/03_outline_computational_learning_theory.pdf)  |  [References](doc/refs.md#week3)  |
-| 4 | 10/3/2019  | Causality (Part 1) [Outline](https://github.com/HFooladi/ml_workshop/blob/master/Topics/04_outline_causality(part1).pdf) |  [References](doc/refs.md#week4)  |
+| Week            | Lecture Date   |  Topic      |  References               |
+| --------------- |----------------| ------------|---------------------------|
+| 1 | 9/2/2019    | Knowledge Distillation [Outline](https://github.com/HFooladi/ml_workshop/blob/master/Topics/01_outline_knowledge%20Distillation.pdf) |  [References](doc/refs.md#week1)  |
+| 2 | 9/12/2019   | Lottery ticket hypothesis [Outline](https://github.com/HFooladi/ml_workshop/blob/master/Topics/02_ouline_lottery_ticket_hypothesis.pdf) |  [References](doc/refs.md#week2)  |
+| 3 | 9/26/2019   | Computational learning theory (PAC Learning) [Outline](https://github.com/HFooladi/ml_workshop/blob/master/Topics/03_outline_computational_learning_theory.pdf)  |  [References](doc/refs.md#week3)  |
+| 4 | 10/3/2019   | Causality (Part 1) [Outline](https://github.com/HFooladi/ml_workshop/blob/master/Topics/04_outline_causality(part1).pdf) |  [References](doc/refs.md#week4)  |
 | 5 | 10/10/2019  | Causality (Part 2) [Outline](https://github.com/HFooladi/ml_workshop/blob/master/Topics/05_outline_causality(part2).pdf) |  [References](doc/refs.md#week5)  |
 | 6 | 10/24/2019  | Gaussian process [Outline](https://github.com/HFooladi/ml_workshop/blob/master/Topics/06_outline_gaussian_process.pdf) |  [References](doc/refs.md#week6)  |
 | 7 | 11/06/2019  | Successor Representation in Reinforcement Learning [Outline](https://github.com/HFooladi/ml_workshop/blob/master/Topics/07_outline_successor_representation.pdf) |  [References](doc/refs.md#week7)  |
 | 8 | 12/18/2019  | Distributional RL [Outline](https://github.com/HFooladi/ml_workshop/blob/master/Topics/08_outline_distributional_rl.pdf) |  [References](doc/refs.md#week8)  |
+| 9 | 3/18/2020   | Bayesian Interpolation [Outline](https://github.com/HFooladi/ml_workshop/blob/master/Topics/09_outline_bayesian_interpolation.pdf) | [References](doc/refs.md#week9)  |

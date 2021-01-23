@@ -118,3 +118,17 @@
 
 * [Distributional RL: Simple Machine Learning blog post](https://mtomassoli.github.io/2017/12/08/distributional_rl/)
 
+
+
+## Week 9: Bayesian Interpolation 
+
+### Main References
+
+* [MacKay, David J. C. (1992) Bayesian interpolation. Neural Computation](https://authors.library.caltech.edu/13792/1/MACnc92a.pdf)
+
+* [Probabilistic machine learning and artificial intelligence](https://www.nature.com/articles/nature14541)
+
+### Further References
+
+* [Wilson, A.G. and Izmailov, P., 2020. Bayesian deep learning and a probabilistic perspective of generalization. ](https://arxiv.org/abs/2002.08791)
+

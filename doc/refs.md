@@ -119,7 +119,7 @@
 * [Distributional RL: Simple Machine Learning blog post](https://mtomassoli.github.io/2017/12/08/distributional_rl/)
 
 
-
+<a name="week9"></a>
 ## Week 9: Bayesian Interpolation 
 
 ### Main References
